@@ -1,0 +1,3 @@
+﻿  Recursion.cpp
+C:\Users\307-02\Desktop\Шурков\pract7\Recursion\Recursion.cpp(18,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Recursion.vcxproj -> C:\Users\307-02\Desktop\Шурков\pract7\Recursion\x64\Debug\Recursion.exe
